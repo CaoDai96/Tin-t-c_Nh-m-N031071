@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+  margin:50px;
+  padding:50px;
+  font-family: sans-serif;
+  color: #333;
+}
+#menu ul {
+  background:#09F;
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+}
+#menu li {
+  color:#000;
+  float: left;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+}
